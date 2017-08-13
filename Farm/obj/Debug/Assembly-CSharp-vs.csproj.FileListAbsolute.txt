@@ -1,0 +1,27 @@
+E:\Sunnet\BusinessMaster\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\UNITY\PROJECT\Business Master\Temp\bin\Debug\Assembly-CSharp.dll
+E:\UNITY\PROJECT\Business Master\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\UNITY\PROJECT\Business Master\Temp\bin\Debug\UnityEditor.dll
+E:\UNITY\PROJECT\Business Master\Temp\bin\Debug\UnityEngine.dll
+E:\UNITY\PROJECT\Business Master\Temp\bin\Debug\Mono.Cecil.dll
+E:\UNITY\PROJECT\Business Master\Temp\bin\Debug\nunit.framework.dll
+E:\UNITY\PROJECT\Business Master\Temp\bin\Debug\Unity.DataContract.dll
+E:\UNITY\PROJECT\Business Master\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\UNITY\PROJECT\Business Master\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\UNITY\PROJECT\Business Master\obj\Debug\Assembly-CSharp.dll
+E:\UNITY\PROJECT\Business Master\obj\Debug\Assembly-CSharp.pdb
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\IFacebook.dll
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\UnityEditor.dll
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\UnityEngine.dll
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\nunit.framework.dll
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\kaser_000\Desktop\Game Source\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\kaser_000\Desktop\Game Source\obj\Debug\Assembly-CSharp.dll
+C:\Users\kaser_000\Desktop\Game Source\obj\Debug\Assembly-CSharp.pdb
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\OpenIAB_W8Plugin.dll
+C:\Users\kaser_000\Desktop\Game Source\Temp\bin\Debug\OpenIAB_W8Plugin.pdb

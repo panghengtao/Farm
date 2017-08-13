@@ -1,0 +1,73 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x102)
+    Vendor:   Intel
+    VRAM:     256 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\IFacebook.dll (this message is harmless)
+Loading C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\IFacebook.dll into Unity Child Domain
+Platform assembly: C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\OpenIAB_W8Plugin.dll (this message is harmless)
+Loading C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\OpenIAB_W8Plugin.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kaser_000\Desktop\Game Source\FB_Data\Managed\System.dll (this message is harmless)
+back1 (UnityEngine.Transform)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+heo (UnityEngine.Transform)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Using SDK 6.0.0, Build 140805.da738911cf62c00
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Facebook API does not yet support this platform
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+UnloadTime: 1.580672 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 4103.
+Total: 4.515499 ms (FindLiveObjects: 0.180595 ms CreateObjectMapping: 0.053061 ms MarkObjects: 3.645725 ms  DeleteObjects: 0.194558 ms)
+
+Using SDK 6.0.0, Build 140805.da738911cf62c00
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Facebook API does not yet support this platform
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OpenIAB billing currently not supported on this platform. Sorry.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at OnePF.OpenIAB.mapSku (System.String sku, System.String storeName, System.String storeSku) [0x00000] in <filename unknown>:0 
+  at DialogInapp.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+12------------------
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
